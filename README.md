@@ -18,15 +18,15 @@ Data Augmentation: Applies transformations (e.g., rotation, zoom, shift, shear, 
 Custom Architectures: Adds dense and dropout layers to the Xception backbone for both tasks.<br>
 Callbacks: Includes early stopping, model checkpoints, and learning rate reduction for efficient training.<br>
 Performance Evaluation: Evaluates models on validation datasets with accuracy and loss metrics.<br><br>
-Visualization:<br>
+Visualization:<br><br>
 Displays prediction results with matplotlib, highlighting correct and incorrect predictions.<br>
-Provides insights into model performance with clear visual representations.<br>
-Technologies Used:<br>
+Provides insights into model performance with clear visual representations.<br><br>
+Technologies Used:<br><br>
 Python, TensorFlow, Keras<br>
 Xception architecture for transfer learning<br>
 Data Augmentation with ImageDataGenerator<br>
-Model deployment-ready with saved .keras models<br>
-Achievements:<br>
+Model deployment-ready with saved .keras models<br><br>
+Achievements:<br><br>
 Implemented robust classification with high accuracy on the validation dataset.<br>
 Integrated a modular and reusable architecture for similar image classification tasks.<br>
 Demonstrated effective data visualization for better interpretation of predictions.<br>
